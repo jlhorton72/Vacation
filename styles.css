@@ -1,8 +1,9 @@
 /*
-  Name: James
+  Name: James Horton
   Date: 04/10/2018
   Assignment: Travel Site
   File Name: index.html 'Travel Site
+  Updated: 05/01/2018
  */
 
 body{
@@ -42,9 +43,9 @@ img {
 	margin: 0 0 15px 0;
 }
 
-.col3 {
+/*.col3 {
   display:none;
 }
 .bottom {
   display:none;
-}
+}*/
