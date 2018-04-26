@@ -1,0 +1,48 @@
+/*
+  Name: James
+  Date: 04/10/2018
+  Assignment: Travel Site
+  File Name: index.html 'Travel Site
+ */
+
+/* Responsive style sheet  */
+.col3 {
+  display: block;
+}
+
+.col1, .col2 {
+  width: 45%;
+  float: left;
+  margin-right: 5%;
+}
+
+.col3 {
+  width: 100%;
+}
+
+@media screen and (min-width:740px) {
+
+  .middle {
+    width: 100%;
+    float: left;
+    margin-right: 5%;
+  } /* end of class*/
+/*  .bottom {
+  width: 30%;
+  float: right;
+} */ /* end of bottom */
+  .clearfix:after { content: ""; display: table;clear: both; }
+} /* end of  @media */
+
+@media screen and (min-width: 900px) {
+  .col1, .col2, .col3, .bottom {
+    float: left;
+    width: 30%;
+  }
+  .col3 {
+    margin-right: 0px;
+  }
+  /*  .bottom {
+    display: block;
+  }*/
+}

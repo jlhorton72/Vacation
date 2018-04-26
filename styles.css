@@ -1,0 +1,50 @@
+/*
+  Name: James
+  Date: 04/10/2018
+  Assignment: Travel Site
+  File Name: index.html 'Travel Site
+ */
+
+body{
+  background-color: #d9d9d9;
+  font-family: Georgia, Arial, "Times New Roman";
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  width:90%;
+  margin:auto;
+  max-width: 1200px;
+  background-color: #cccccc;
+}
+
+header {
+  background-color: #E9E9E9;
+	padding: 30px 20px;
+}
+.cols {
+  padding: 50px 10px 5px 10px;
+  line-height: 1.5;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin: 0 0 10px 0;
+}
+
+.bottom{
+  background-color: #ffccee;
+	padding: 20px;
+	font-size: 13px;
+	margin: 0 0 15px 0;
+}
+
+.col3 {
+  display:none;
+}
+.bottom {
+  display:none;
+}
