@@ -4,7 +4,6 @@
   Assignment: Travel Site
   File Name: index.html 'Travel Site
  */
-
 body{
   background-color: #d9d9d9;
   font-family: Georgia, Arial, "Times New Roman";
@@ -47,4 +46,8 @@ img {
 }
 .bottom {
   display:none;
+}
+.navbar-default {
+    background-color: #d9d9d9;
+    border-color: #d9d9d9;
 }
