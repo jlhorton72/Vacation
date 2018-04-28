@@ -42,18 +42,11 @@ img {
 	margin: 0 0 15px 0;
   clear: both;
 }
-
-/*.col3 {
-  display:none;
-}
-.bottom {
-  display:none;
-<<<<<<< HEAD
-}
 .navbar-default {
     background-color: #d9d9d9;
     border-color: #d9d9d9;
 }
-=======
-}*/
->>>>>>> ac3caf37a85f0d6e7e5d688143ce421d09e04489
+.center{
+  margin: auto;
+  text-align: center;
+}
